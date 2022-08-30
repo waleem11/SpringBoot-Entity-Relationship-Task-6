@@ -1,6 +1,5 @@
 package com.springboottsk6.Task6.User;
 
-import com.springboottsk6.Task6.Product.Product;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
